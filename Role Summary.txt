@@ -1,0 +1,56 @@
+Role Summary
+As a Graduate Machine Learning Engineer, you’ll join a dynamic team to design, develop, test, and deploy cutting-edge machine learning models to support HSBC’s strategic initiatives (e.g., fraud detection, risk management, customer insight, personalization). This entry-level position offers structured training, mentoring, and exposure across multiple domains including data engineering, model development, and ML operations.
+
+Key Responsibilities
+Support the design and development of ML models (e.g., classification, clustering, regression).
+
+Assist with data collection, preprocessing, and exploratory data analysis (EDA).
+
+Participate in feature engineering and selection processes.
+
+Help with hyperparameter tuning and model evaluation using evaluation metrics like accuracy, AUC, F1, RMSE, etc.
+
+Implement and maintain ML model pipelines using tools like Python, Scikit-learn, TensorFlow, or PyTorch.
+
+Engage with stakeholders to understand business requirements and translate them into ML solutions.
+
+Assist with model deployment using MLOps tools or frameworks (e.g., Docker, Kubernetes, MLflow).
+
+Document experiments, findings, and model behavior for transparency and compliance.
+
+What You’ll Learn
+Best practices in handling financial data, ensuring data quality, and addressing compliance requirements.
+
+HSBC’s approach to responsible AI, fairness, ethics, and model interpretability.
+
+Collaboration with cross-functional teams: data science, engineering, product, risk, and business units.
+
+Real-world deployment of ML models in production environments.
+
+Technical skills involving financial services applications such as risk scoring, customer segmentation, credit modeling, or anomaly detection.
+
+Qualifications
+Bachelor’s or Master’s degree in Computer Science, Engineering, Statistics, Mathematics, or related field (completed within the past 2 years).
+
+Strong foundation in machine learning algorithms and basic statistics.
+
+Proficiency in Python and libraries such as Pandas, NumPy, Scikit-learn; familiarity with deep learning frameworks is a plus.
+
+Hands-on experience with at least one ML project—coursework, thesis, hackathons, or internship.
+
+Excellent analytical skills and ability to work with structured and unstructured data.
+
+Eagerness to learn, adapt, and work in an agile, collaborative environment.
+
+Basic exposure to SQL, version control (Git), cloud platforms (Azure, AWS, GCP), Docker, or CI/CD pipelines is a plus.
+
+Fluent in English; additional languages (local to the region you're applying in) are an advantage.
+
+Why HSBC?
+Structured graduate development programs with mentorship and rotational opportunities.
+
+Global scale, complex challenges, and exposure to a wide range of financial use cases.
+
+Commitment to innovation, diversity, and ethical AI practices.
+
+Competitive compensation, learning budget, and inclusive work culture.
